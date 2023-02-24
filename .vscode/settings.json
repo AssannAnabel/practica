@@ -1,0 +1,6 @@
+{
+    "editor.fontSize": 20,
+    "editor.formatOnPaste": true,
+    "editor.formatOnType": true,
+    "editor.wordWrap": "on"
+}

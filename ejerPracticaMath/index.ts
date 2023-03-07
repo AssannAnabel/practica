@@ -1,0 +1,1 @@
+const math:Require("./matematica.ts")

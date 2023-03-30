@@ -1,0 +1,42 @@
+[
+  {
+    "modelo": "k",
+    "marca": "ford",
+    "anio": 98,
+    "color": "rojo",
+    "tipo": "sedan",
+    "km": 10000
+  },
+  {
+    "modelo": "206",
+    "marca": "peugeot",
+    "anio": 2008,
+    "color": "gris",
+    "tipo": "sedan",
+    "kilometraje": 20000
+  },
+  {
+    "modelo": "hilux",
+    "marca": "toyota",
+    "anio": "1998",
+    "color": "gris",
+    "tipo": "pick-up",
+    "kilometraje": 150000
+  },
+  {
+    "modelo": "308",
+    "marca": "peugeot",
+    "anio": 2020,
+    "color": "negro",
+    "tipo": "sedan",
+    "kilometraje": 8000
+  },
+  {
+    "modelo": "Corolla",
+    "marca": "Toyota",
+    "anio": 2011,
+    "color": "Gris",
+    "tipo": "Sedan",
+    "km": 202456
+  }
+]
